@@ -1,0 +1,11 @@
+{
+    "name": "@runkit/romanwang_600f4eadb1d9ed001a9397f3",
+    "version": "0.0.0-master",
+    "main": "./lib/600f4eadb1d9ed001a9397f3",
+    "dependencies": {
+        "stockx-api": "1.0.9"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
